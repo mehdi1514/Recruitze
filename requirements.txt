@@ -35,4 +35,10 @@ nltk
 nlp
 bs4
 selenium
-
+flask_mail
+flask_login
+PyPDF2
+flask_wtf
+flask_bcrypt
+flask_sqlalchemy
+opencv-python
